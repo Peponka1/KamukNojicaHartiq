@@ -2,6 +2,7 @@
 Конзолна игра "Камък, ножица, хартия"
 ### Live Demo
 You can play the game directly in your Web browser here:(https://replit.com/@bodlivkobg/KamukNojicaHartiq))
+
 [Source Code](KamukNojicaHartiq.py)
 
 Win: ![image](https://github.com/Peponka1/KamukNojicaHartiq/assets/93885530/5f0b7577-f7bc-4339-8929-7179cfb2d6c7)
