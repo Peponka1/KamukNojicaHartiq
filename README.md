@@ -3,7 +3,7 @@
 ### Live Demo
 You can play the game directly in your Web browser here:(https://replit.com/@bodlivkobg/KamukNojicaHartiq))
 
-[Source Code](KamukNojicaHartiq.py)
+# source code [Source Code](KamukNojicaHartiq.py)
 
 ![image](https://github.com/Peponka1/KamukNojicaHartiq/assets/93885530/06bfae1e-6ee9-42bd-af1f-9b74ed6d6635)
 
